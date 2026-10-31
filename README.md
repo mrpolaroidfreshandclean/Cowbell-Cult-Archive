@@ -22,6 +22,15 @@ Download Vol.2 [2020] > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-
   Vol.3
 </p>
 
+<p>
+  <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/cover.png?raw=true" width="150" 
+</p>
+
+Download Forbidden Tape [2020] > https://drive.google.com/drive/folders/1AXKCWSy2mfODxrKAkNMM5Nb0Rc-47N6h?usp=drive_link
+
+
+
+
 Download Vol.3 [2021] > https://drive.google.com/drive/folders/1h429xRiXwnHhwudprkP8smwtNh04Asgi?usp=drive_link
 
 <p>
@@ -44,13 +53,6 @@ Download Vol.5 [2021] > https://drive.google.com/drive/folders/1e3TFwzSl_cXioutS
 </p>
 
 Download Vol.6 [2022] > https://drive.google.com/drive/folders/18CB3SvUVexW9hSkP4Yu6T45AKNl8OjL_?usp=drive_link
-
-<p>
-  <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/cover.png?raw=true" width="150" 
-</p>
-
-Download Forbidden Tape [2020] > https://drive.google.com/drive/folders/1AXKCWSy2mfODxrKAkNMM5Nb0Rc-47N6h?usp=drive_link
-
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol7.png" width="150" 
