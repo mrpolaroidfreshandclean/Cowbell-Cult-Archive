@@ -8,14 +8,14 @@ What is flac format? > https://en.wikipedia.org/wiki/FLAC
   Vol.1  
 </p>
 
-Download Vol.1 > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
+Download Vol.1 [2020] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol2.jpg" width="150" 
   Vol.2
 </p>
   
-Download Vol.2 > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
+Download Vol.2 2020[] > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol3.png" width="150" 
@@ -49,6 +49,12 @@ Download Vol.6 > https://drive.google.com/drive/folders/18CB3SvUVexW9hSkP4Yu6T45
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol7.png" width="150" 
   Vol.7
 </p>
+
+<p>
+  <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/cover.png?raw=true" width="150" 
+  V
+
+Download Forbidden Tape [2020] > https://drive.google.com/drive/folders/1AXKCWSy2mfODxrKAkNMM5Nb0Rc-47N6h?usp=drive_link
 
 (this files has been ripped from soundcloud, i don't know if it is the best quality)
 
