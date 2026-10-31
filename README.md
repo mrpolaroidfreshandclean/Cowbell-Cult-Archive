@@ -15,41 +15,42 @@ Download Vol.1 [2020] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWN
   Vol.2
 </p>
   
-Download Vol.2 2020[] > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
+Download Vol.2 [2020] > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol3.png" width="150" 
   Vol.3
 </p>
 
-Download Vol.3 > https://drive.google.com/drive/folders/1h429xRiXwnHhwudprkP8smwtNh04Asgi?usp=drive_link
+Download Vol.3 [2021] > https://drive.google.com/drive/folders/1h429xRiXwnHhwudprkP8smwtNh04Asgi?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol4.png" width="150" 
   Vol.4
 </p>
 
-Download Vol.4 > https://drive.google.com/drive/folders/1_ykUhoU1Id_vQ4GJuC25J8D6NEs8GJmP?usp=drive_link
+Download Vol.4 [2021] > https://drive.google.com/drive/folders/1_ykUhoU1Id_vQ4GJuC25J8D6NEs8GJmP?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol5.jpg" width="150" 
   Vol.5
 </p>
 
-Download Vol.5 > https://drive.google.com/drive/folders/1e3TFwzSl_cXioutScLxgYjwvaGg7RRNZ?usp=drive_link
+Download Vol.5 [2021] > https://drive.google.com/drive/folders/1e3TFwzSl_cXioutScLxgYjwvaGg7RRNZ?usp=drive_link
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol6.jpg" width="150" 
   Vol.6
 </p>
 
-Download Vol.6 > https://drive.google.com/drive/folders/18CB3SvUVexW9hSkP4Yu6T45AKNl8OjL_?usp=drive_link
+Download Vol.6 [2022] > https://drive.google.com/drive/folders/18CB3SvUVexW9hSkP4Yu6T45AKNl8OjL_?usp=drive_link
 
 <p>
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/cover.png?raw=true" width="150" 
 </p>
 
 Download Forbidden Tape [2020] > https://drive.google.com/drive/folders/1AXKCWSy2mfODxrKAkNMM5Nb0Rc-47N6h?usp=drive_link
+
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol7.png" width="150" 
@@ -58,6 +59,6 @@ Download Forbidden Tape [2020] > https://drive.google.com/drive/folders/1AXKCWSy
 
 (this files has been ripped from soundcloud, i don't know if it is the best quality)
 
-Download Vol.7 > https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eqp94K_N-RbjxRh86k?usp=drive_link
+Download Vol.7 [2023] > https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eqp94K_N-RbjxRh86k?usp=drive_link
 
 *everything on .flac format, the greatest format to listen to music*
