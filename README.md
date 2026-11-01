@@ -83,7 +83,7 @@
 
 #
 
-everything on .flac format, the greatest format to listen to musi
+everything on .flac format, the greatest format to listen to music
 
 # LOST TRACKS OR LOST FILES OF COWBELL CULT MEMBERS
 
