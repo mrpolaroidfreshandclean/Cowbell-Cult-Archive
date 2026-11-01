@@ -27,7 +27,7 @@
   
 * Forbidden Tape [2020] > https://drive.google.com/drive/folders/1IV-qzw8D_T8HhGFe66r9QXuGlHOLljfk?usp=drive_link
 
-* soundcloud link:
+* soundcloud link: https://soundcloud.com/bxnkfriteran/sets/pilgrim-x-joehdah-forbidden
 
 * spotfy link: https://open.spotify.com/intl-pt/album/0mikQQM64qbPM68pQ2VUTJ?go=1&sp_cid=311c968e2e5c5f6dfb0a7d13e2dfa327&nd=1&dlsi=444fba95df1c4ca7
 
