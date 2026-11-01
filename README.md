@@ -95,7 +95,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vo
 LINK TO THE SPOTIFY: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
 
 <p>
-  <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/Yo%20Turn.jpg?raw=true" width="150" 
+  <img src="https://raw.githubusercontent.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/refs/heads/main/assets2/UZIMANE-UZIPUMP_DRUMKIT_PROMOTION.jpg" width="150" 
   Vol.7
 </p>
 
