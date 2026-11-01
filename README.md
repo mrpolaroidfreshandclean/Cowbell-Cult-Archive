@@ -1,5 +1,5 @@
 ## *Download every Cowbell Cult song with good quality*
-# [Cowbell Cult's History](https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/wiki)
+# Go to [Cowbell Cult's History](https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/wiki)
 
 * What is flac format? > https://en.wikipedia.org/wiki/FLAC
 
