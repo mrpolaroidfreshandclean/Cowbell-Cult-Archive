@@ -107,6 +107,8 @@ spotify link: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1
 
 * UZIPUMP DRUMKIT PROMOTION [2020-09-23T20:52] > https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 
+:rotating_light: the pilgrim drum kit is missing, this is only a song that showcases it
+
 * soundcloud link: https://soundcloud.com/djuzimane/uzipump-drumkit-promotion
 
 * spotfy link: https://open.spotify.com/intl-pt/album/5UxssOlTmslIk5JrQpIahx?nd=1&dlsi=681aec4b6e274e9f
