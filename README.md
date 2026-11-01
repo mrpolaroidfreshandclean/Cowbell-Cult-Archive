@@ -81,7 +81,9 @@
 
 * soundcloud link: https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vol-7
 
-* everything on .flac format, the greatest format to listen to musi *
+#
+
+everything on .flac format, the greatest format to listen to musi
 
 # LOST TRACKS OR LOST FILES OF COWBELL CULT MEMBERS
 
