@@ -69,4 +69,11 @@ Download Vol.7 [2023] > https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eq
 
 *everything on .flac format, the greatest format to listen to music*
 
+# LOST TRACKS OF COWBELL CULT MEMBERS
 
+<p>
+  <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/Yo%20Turn.jpg?raw=true" width="150" 
+  Vol.7
+</p>
+
+Download Yo turn [2024] > https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
