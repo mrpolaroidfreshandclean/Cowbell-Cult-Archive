@@ -1,7 +1,6 @@
 ## *Download every Cowbell Cult song with good quality*
 # [Cowbell Cult's History](https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/wiki)
 
-# Archiving the greatest phonk on earth Cowbell Cult’s entire discography.
 * What is flac format? > https://en.wikipedia.org/wiki/FLAC
 
 <p>
