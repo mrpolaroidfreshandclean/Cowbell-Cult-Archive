@@ -10,7 +10,7 @@
 
 * Vol.1 [2020-10-24] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
+soundcloud link: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol2.jpg" width="150" 
@@ -19,7 +19,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol
   
 * Vol.2 [2020-10-31] > https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-2
+soundcloud link: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-2
 
 <p>
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/forbiddentape.png?raw=true" width="150" 
@@ -34,7 +34,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol
 
 * Vol.3 [2021-01-24] > https://drive.google.com/drive/folders/1h429xRiXwnHhwudprkP8smwtNh04Asgi?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-3
+soundcloud link: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-3
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol4.png" width="150" 
@@ -43,7 +43,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol
 
 * Vol.4 [2021-04-18] > https://drive.google.com/drive/folders/1_ykUhoU1Id_vQ4GJuC25J8D6NEs8GJmP?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-4
+soundcloud link: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-4
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol5.jpg" width="150" 
@@ -52,7 +52,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vo
 
 * Vol.5 [2021-11-06] > https://drive.google.com/drive/folders/1e3TFwzSl_cXioutScLxgYjwvaGg7RRNZ?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-5
+soundcloud link: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-5
 
 <p>
   <img src="https://raw.githubusercontent.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/refs/heads/main/assets2/Jdm.jpg" width="150" 
@@ -61,7 +61,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vo
 
 * Jdm [2021-01-23] > https://drive.google.com/drive/folders/1hKu5qpuOYeKMKpm9jEBgJygmLRFU2fJK?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/prepearurass/sets/jdm
+soundcloud link: https://soundcloud.com/prepearurass/sets/jdm
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol6.jpg" width="150" 
@@ -79,7 +79,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/prepearurass/sets/jdm
 
 * Vol.7 [2023-10-31] > https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eqp94K_N-RbjxRh86k?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vol-7
+soundcloud link: https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vol-7
 
 # everything on .flac format, the greatest format to listen to musi*
 
@@ -92,7 +92,7 @@ LINK TO THE SOUNDCLOUD: https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vo
 
 * Yo turn [2024-08-09] > https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 
-LINK TO THE SPOTIFY: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
+spotify link: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
 
 <p>
   <img src="https://raw.githubusercontent.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/refs/heads/main/assets2/UZIMANE-UZIPUMP_DRUMKIT_PROMOTION.jpg" width="150" 
@@ -101,6 +101,6 @@ LINK TO THE SPOTIFY: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3c
 
 * UZIPUMP DRUMKIT PROMOTION [2020-09-23T20:52] > https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 
-LINK TO THE SOUNDCLOUD: https://soundcloud.com/djuzimane/uzipump-drumkit-promotion
+* soundcloud link: https://soundcloud.com/djuzimane/uzipump-drumkit-promotion
 
-LINK TO THE SPOTIFY: https://open.spotify.com/intl-pt/album/5UxssOlTmslIk5JrQpIahx?nd=1&dlsi=681aec4b6e274e9f
+* spotfy link: https://open.spotify.com/intl-pt/album/5UxssOlTmslIk5JrQpIahx?nd=1&dlsi=681aec4b6e274e9f
