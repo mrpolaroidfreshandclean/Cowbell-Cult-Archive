@@ -1,4 +1,4 @@
-## **Download every Cowbell Cult song with good quality**
+**Download every Cowbell Cult song with good quality**
 
 # Go to [Cowbell Cult's History](https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/wiki)
 
@@ -45,7 +45,7 @@
 - Forbidden Tape [2020] >
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://drive.google.com/drive/folders/1IV-qzw8D_T8HhGFe66r9QXuGlHOLljfk?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/bxnkfriteran/sets/pilgrim-x-joehdah-forbidden
-- <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://open.spotify.com/intl-pt/album/0mikQQM64qbPM68pQ2VUTJ?go=1&sp_cid=311c968e2e5c5f6dfb0a7d13e2dfa327&nd=1&dlsi=444fba95df1c4ca7
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/0mikQQM64qbPM68pQ2VUTJ?go=1&sp_cid=311c968e2e5c5f6dfb0a7d13e2dfa327&nd=1&dlsi=444fba95df1c4ca7
 
 <br clear="left">
 
@@ -136,7 +136,7 @@ Everything on .FLAC format, the greatest format to listen to music.
 
 - Yo Turn [2024-08-09] >
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
-- <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
 
 <br clear="left">
 
@@ -151,6 +151,6 @@ Everything on .FLAC format, the greatest format to listen to music.
 - UZIPUMP DRUMKIT PROMOTION [2020-09-23T20:52] >
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/djuzimane/uzipump-drumkit-promotion
-- <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://open.spotify.com/intl-pt/album/5UxssOlTmslIk5JrQpIahx?nd=1&dlsi=681aec4b6e274e9f
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/5UxssOlTmslIk5JrQpIahx?nd=1&dlsi=681aec4b6e274e9f
 
 <br clear="left">
