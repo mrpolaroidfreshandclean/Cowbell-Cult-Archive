@@ -21,6 +21,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/1a8Poq1VmuhLXKIrCipJgY
 
 <br clear="left">
 
@@ -33,6 +34,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/18H6wVXX5KkFIA-L-ikNtaqn5kI38nevI?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-2
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/3D1UmK5zy5yktFOcPikEwu
 
 <br clear="left">
 
@@ -58,6 +60,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1h429xRiXwnHhwudprkP8smwtNh04Asgi?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-3
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/6AdH8zAalVKYMuwRfmmfvS
 
 <br clear="left">
 
@@ -70,6 +73,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1_ykUhoU1Id_vQ4GJuC25J8D6NEs8GJmP?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-4
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/0TABWXcWYgUgtanjX4YtVc
 
 <br clear="left">
 
@@ -82,6 +86,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1e3TFwzSl_cXioutScLxgYjwvaGg7RRNZ?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-5
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/5soOQlQdsmvZ9yVzBbzHqE
 
 <br clear="left">
 
@@ -94,6 +99,7 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1hKu5qpuOYeKMKpm9jEBgJygmLRFU2fJK?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/prepearurass/sets/jdm
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/3WxxWPypWo1HEwj3e2J3FC
 
 <br clear="left">
 
@@ -105,6 +111,9 @@
 
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/18CB3SvUVexW9hSkP4Yu6T45AKNl8OjL_?usp=drive_link
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult2/sets/cowbell-cult-vol-6
+  - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/3WxxWPypWo1HEwj3e2J3FC
+
 
 <br clear="left">
 
@@ -119,6 +128,8 @@
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eqp94K_N-RbjxRh86k?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vol-7
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> 
+https://open.spotify.com/intl-pt/album/21QkI11vTvFNaJgqQVtlod?nd=1&dlsi=0fc1a0c60c17486a
 
 <br clear="left">
 
