@@ -15,10 +15,9 @@ UPDATES 🔴 COMING YODAY!!!!
     align="left">
     Vol.1 [2020-10-24] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link * 
     soundcloud link: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
+  <br clear="left">
   Vol.1
 </p>
-
-
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/refs/heads/main/assets2/vol2.jpg" width="150" 
