@@ -6,11 +6,10 @@
 
 ## UPDATES 🔴 COMING TODAY!!!!
 
-- Memphis revival
-- Uzipump drumkit remake
-- Lost tracks + tracks in good quality
-- Better wiki + photos
-- New design
++ Memphis revival
++ Uzipump drumkit remake
++ lost tracks from vol.3 and etc
++ Better wiki + photos
 
 ---
 
