@@ -15,9 +15,9 @@
 
 <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" align="left">
 
-**Vol.1**
+**Vol.1 ReleaseDate>[2020-10-24]**
 
-- Vol.1 [2020-10-24] >
+- Vol.1 >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
 
