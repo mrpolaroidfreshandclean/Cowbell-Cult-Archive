@@ -3,7 +3,7 @@
 
 * What is flac format? > https://en.wikipedia.org/wiki/FLAC
 
-:soundcloud: sdasdasd
+* <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" 
