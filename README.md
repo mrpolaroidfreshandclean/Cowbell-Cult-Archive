@@ -6,7 +6,8 @@
 
 ## UPDATES 🔴 COMING SOMEDAY!!!!
 
-+ Memphis revival
++ Memphis revival album
++ Cowbell Chronicles album
 + Old vol.3
 + Uzipump drumkit remake
 + lost tracks from vol.3 and etc
