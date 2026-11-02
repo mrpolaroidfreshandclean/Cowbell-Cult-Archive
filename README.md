@@ -10,8 +10,8 @@ UPDATES 🔴 COMING YODAY!!!!
 + beter wiki + photos
 + new design
 
-<p>
-  <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" > * Vol.1 [2020-10-24] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
+<p> Vol.1 [2020-10-24] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
+  <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" >  
 
 * soundcloud link: https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
   Vol.1
