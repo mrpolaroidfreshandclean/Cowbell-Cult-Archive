@@ -3,7 +3,7 @@
 
 * What is flac format? > https://en.wikipedia.org/wiki/FLAC
 
-* <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
+UPDATES 🔴 COMING YODAY!!!! NEW TRACKS, NEW DESIGN AND BETTER WIKI WITH + PHOTOS AND MENPHIS REVIVAL COMING SOOON!!!!
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" 
