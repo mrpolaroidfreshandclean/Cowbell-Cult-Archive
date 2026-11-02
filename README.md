@@ -148,7 +148,7 @@ Everything on .FLAC format, the greatest format to listen to music.
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1&dlsi=4a6b85006fd84d03
-- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/yqq.png?raw=true" width="20"> https://y.qq.com/n/ryqq_v2/songDetail/003RZV7q39SstF?ADTAG=h5_play_song&songtype=0&redirecttag=mn.redirect.custom&mnst=0.95
+- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/yqq.png?raw=true" width="40"> https://y.qq.com/n/ryqq_v2/songDetail/003RZV7q39SstF?ADTAG=h5_play_song&songtype=0&redirecttag=mn.redirect.custom&mnst=0.95
 
 <br clear="left">
 
