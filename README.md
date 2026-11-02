@@ -159,7 +159,7 @@ Everything on .FLAC format, the greatest format to listen to music.
 **Vol.uzipumpdrumkit ReleaseDate>[2020-09-23T20:52]**
 
 🚨 The Pilgrim drum kit is missing. This is only a song that he showcases it.
-
+    * we will add a remake of the drumkit
 - >
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/djuzimane/uzipump-drumkit-promotion
