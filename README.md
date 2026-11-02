@@ -4,7 +4,7 @@
 
 - What is FLAC format? > [https://en.wikipedia.org/wiki/FLAC](https://en.wikipedia.org/wiki/FLAC)
 
-## UPDATES 🔴 COMING TODAY!!!!
+## UPDATES 🔴 COMING SOMEDAY!!!!
 
 + Memphis revival
 + Uzipump drumkit remake
