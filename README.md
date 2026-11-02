@@ -5,12 +5,15 @@
 
 UPDATES 🔴 COMING YODAY!!!!
 + menphis revival
++ uzipump drumkit remake
 + lost tracks + tracks in a good quality
 + beter wiki + photos
 + new design
 
-
+<p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" 
+  Vol.1
+</p>
 
 * Vol.1 [2020-10-24] > https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 
@@ -97,7 +100,7 @@ everything on .flac format, the greatest format to listen to music
 
 <p>
   <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/Yo%20Turn.jpg?raw=true" width="150" 
-  Vol.7
+  Vol.yoturn
 </p>
 
 * Yo turn [2024-08-09] > https://drive.google.com/drive/folders/1vAFgva9ML89Da03wvHKbs6V2VBlcTcmt?usp=drive_link
@@ -106,7 +109,7 @@ spotify link: https://open.spotify.com/intl-pt/album/5k5dlZKSsR7Rjl82Hc3cZn?nd=1
 
 <p>
   <img src="https://raw.githubusercontent.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/refs/heads/main/assets2/UZIMANE-UZIPUMP_DRUMKIT_PROMOTION.jpg" width="150" 
-  Vol.7
+  Vol.uzipumpdrumkit
 </p>
 
 :rotating_light: the pilgrim drum kit is missing, this is only a song that he showcases it
