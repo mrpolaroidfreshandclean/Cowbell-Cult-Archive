@@ -3,7 +3,11 @@
 
 * What is flac format? > https://en.wikipedia.org/wiki/FLAC
 
-UPDATES 🔴 COMING YODAY!!!! NEW TRACKS, NEW DESIGN AND BETTER WIKI WITH + PHOTOS AND MENPHIS REVIVAL COMING SOOON!!!!
+UPDATES 🔴 COMING YODAY!!!!
++ menphis revival
++ lost tracks + tracks in a good quality
++ beter wiki + photos
++ new design
 
 <p>
   <img src="https://raw.githubusercontent.com/umovoquebrado-svg/cowbellcultarchiveDownload.github.io/main/assets2/vol1.png" width="150" 
