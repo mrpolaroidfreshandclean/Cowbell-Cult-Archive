@@ -1,4 +1,4 @@
-**Download every Cowbell Cult song with good quality > https://drive.google.com/drive/folders/19RgZdSjF7_7S-dSj8oitnGGhpAdmmJGT?usp=drive_link**
+**Download every Cowbell Cult song with good quality >  MAIN LINK https://drive.google.com/drive/folders/19RgZdSjF7_7S-dSj8oitnGGhpAdmmJGT?usp=drive_link**
 
 # Go to [Cowbell Cult's History](https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/wiki)
 
