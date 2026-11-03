@@ -20,7 +20,7 @@
 **Vol.1 ReleaseDate>[2020-10-24]**
 
 - >
-- <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
+ <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1GNSb6H4re1IPuHWNdXD_JdVyAI5BUivl?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbellcult/sets/cowbell-cult-vol-1
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> https://open.spotify.com/intl-pt/album/1a8Poq1VmuhLXKIrCipJgY
 
