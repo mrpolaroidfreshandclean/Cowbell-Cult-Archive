@@ -126,7 +126,6 @@
 
 (Only MP3, M3U8 isn't working properly)
 
-- >
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/google_drive.png?raw=true" width="20"> https://drive.google.com/drive/folders/1vlvvvw1XUj1ra_Eqp94K_N-RbjxRh86k?usp=drive_link
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/soundcloud.png?raw=true" width="20"> https://soundcloud.com/cowbell-cult/sets/cowbell-cult-vol-7
 - <img src="https://github.com/mrpolaroidfreshandclean/Cowbell-Cult-Archive/blob/main/assets2/old-man-yells-at-spotify.png?raw=true" width="20"> 
