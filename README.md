@@ -5,7 +5,7 @@
 - What is FLAC format? > [https://en.wikipedia.org/wiki/FLAC](https://en.wikipedia.org/wiki/FLAC)
 
 ## UPDATES 🔴 COMING SOMEDAY!!!!
-
+🔴SOME TRACKS AND ALBUMS ARENT WITH THE ORIGINAL COVER, I AM FIXING IT
 + Memphis revival album
 + Cowbell Chronicles album
 + Old vol.3
